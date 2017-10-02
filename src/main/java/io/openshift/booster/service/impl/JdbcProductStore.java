@@ -14,6 +14,8 @@ import java.util.NoSuchElementException;
 
 /**
  * The implementation of the store.
+ * 
+ * New comment added.
  *
  */
 public class JdbcProductStore implements Store {
